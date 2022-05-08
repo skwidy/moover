@@ -20,7 +20,7 @@ $ npm install -g moover
 $ moover COMMAND
 running command...
 $ moover (--version)
-moover/0.0.1 darwin-x64 node-v14.18.2
+moover/1.0.0 darwin-x64 node-v14.18.2
 $ moover --help [COMMAND]
 USAGE
   $ moover COMMAND
@@ -80,7 +80,7 @@ EXAMPLES
   $ moov -f deezer -t spotify
 ```
 
-_See code: [dist/commands/moov/index.ts](https://github.com/skwidy/moover/blob/v0.0.1/dist/commands/moov/index.ts)_
+_See code: [dist/commands/moov/index.ts](https://github.com/skwidy/moover/blob/v1.0.0/dist/commands/moov/index.ts)_
 
 ## `moover plugins`
 

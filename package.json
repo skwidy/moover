@@ -1,6 +1,6 @@
 {
   "name": "moover",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Moving music from a provider to another, like Deezer to Spotify.",
   "author": "Guillaume Odier",
   "bin": {
